@@ -1,5 +1,9 @@
 <template>
-  <NavBar />
+  <div
+    class="home w-screen h-screen bg-gradient-to-r from-cyan-500 to-blue-500"
+  >
+    <NavBar />
+  </div>
 </template>
 
 <script>
