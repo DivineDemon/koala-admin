@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col md:flex-row justify-center items-center w-screen h-screen bg-gradient-to-r from-cyan-500 to-blue-500"
+    class="flex flex-col md:flex-row justify-center items-center align-middle w-screen h-screen bg-gradient-to-r from-cyan-500 to-blue-500"
   >
     <div
       class="flex flex-col md:flex-row p-5 bg-white md:bg-transparent shadow-xl md:shadow-none rounded-lg"
@@ -10,10 +10,10 @@
         <img
           src="../assets/img/loginlogo.png"
           alt=""
-          class="w-12 h-12 md:w-24 md:h-24"
+          class="w-14 h-14 md:w-14 md:h-14 lg:w-24 lg:h-24"
         />
         <span
-          class="text-6xl md:text-8xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-cyan-500 font-bold md:text-white md:drop-shadow-xl"
+          class="text-6xl md:text-6xl lg:text-8xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-cyan-500 font-bold md:text-white md:drop-shadow-xl"
           >KoalaSec</span
         >
       </div>
