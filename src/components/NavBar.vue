@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col bg-white">
+  <div class="w-full flex flex-col bg-white">
     <!-- Non-Responsive -->
     <nav class="flex flex-row justify-between items-center p-5 shadow-md">
       <!-- Logo -->
