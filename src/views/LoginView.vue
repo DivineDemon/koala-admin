@@ -6,7 +6,7 @@
       class="flex flex-col md:flex-row p-5 bg-white md:bg-transparent shadow-xl md:shadow-none rounded-lg"
     >
       <!-- Logo -->
-      <div class="flex flex-row space-x-2 mr-5">
+      <div class="flex flex-row space-x-2 mr-5 md:mr-[350px]">
         <img
           src="../assets/img/loginlogo.png"
           alt=""
@@ -19,7 +19,7 @@
       </div>
       <!-- Form -->
       <div
-        class="flex flex-col space-y-5 text-gray-400 font-semibold md:bg-white md:p-5 md:rounded-md"
+        class="md:w-full flex flex-col space-y-5 text-gray-400 font-semibold md:bg-white md:p-5 md:rounded-md"
       >
         <fieldset class="border-t border-gray-300 mt-4">
           <legend class="mx-auto px-4 text-gray-500 text-sm">
